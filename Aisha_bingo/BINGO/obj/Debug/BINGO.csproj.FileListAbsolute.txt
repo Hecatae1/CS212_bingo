@@ -1,0 +1,7 @@
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\obj\Debug\BINGO.csproj.AssemblyReference.cache
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\obj\Debug\BINGO.csproj.CoreCompileInputs.cache
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\bin\Debug\BINGO.exe.config
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\bin\Debug\BINGO.exe
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\bin\Debug\BINGO.pdb
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\obj\Debug\BINGO.exe
+C:\Users\Aisha Naomi A\Documents\Aisha_bingo\BINGO\obj\Debug\BINGO.pdb
